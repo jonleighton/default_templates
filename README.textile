@@ -1,0 +1,9 @@
+h2. Default Templates
+
+This is a Rails plugin which allows you to specify a default template for a specific
+action. For example, if we are rendering the "new" action for a "tasks" controller,
+the plugin will look for app/views/tasks/new. If that template does not exist, it will
+look for app/views/defaults/new instead.
+
+(My new and edit templates just contain @render :partial => "form"@, so this plugin 
+removes some clutter for me.)

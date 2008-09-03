@@ -1,0 +1,40 @@
+8
+
+dir
+611
+svn://67.207.128.158/insight/trunk/vendor/plugins/default_templates/tasks
+svn://67.207.128.158
+
+
+
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a67ebef2-6040-0410-8d88-dcb8d9a9166a
+
+default_templates_tasks.rake
+file
+
+
+
+
+2008-07-04T15:31:17.000000Z
+bda385fdf97698ddb4084915a8a9e786
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+

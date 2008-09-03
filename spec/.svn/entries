@@ -1,0 +1,52 @@
+8
+
+dir
+611
+svn://67.207.128.158/insight/trunk/vendor/plugins/default_templates/spec
+svn://67.207.128.158
+
+
+
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a67ebef2-6040-0410-8d88-dcb8d9a9166a
+
+spec_helper.rb
+file
+
+
+
+
+2008-07-04T15:31:17.000000Z
+0498213c55f76afa3c5bfe3373068da7
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+
+default_templates_spec.rb
+file
+
+
+
+
+2008-07-04T15:31:17.000000Z
+6f5c1c9ab31055d08360210dc809ce08
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+
